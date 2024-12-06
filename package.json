@@ -1,0 +1,76 @@
+{
+  "name": "swsh-bb-24-layouts",
+  "version": "0.0.1",
+  "description": "Layouts for the Sword/Shield IoA Barrier Blitz 2024",
+  "author": {
+    "name": "PokemonSpeedruns"
+  },
+  "files": [
+    "graphics"
+  ],
+  "keywords": [
+    "nodecg-bundle"
+  ],
+  "nodecg": {
+    "compatibleRange": "^2.0.0",
+    "graphics": [
+      {
+        "file": "IntroDay1.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "IntroDay2.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "RunnerFeed.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "BackgroundWithComms.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "Background.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "Comms.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "Standings.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "StandingsPerCategory.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "Outro.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "Ticker.html",
+        "width": 1920,
+        "height": 99
+      },
+      {
+        "file": "TechIssues.html",
+        "width": 1920,
+        "height": 99
+      }
+    ]
+  },
+  "repository": "https://github.com/PokemonSpeedruns/swsh-bb-24-layouts.git",
+  "license": "Apache-2.0"
+}

@@ -1,0 +1,71 @@
+/* Runner and pronouns panel. */
+.runner-container {
+	font-family: 'Montserrat-Black';
+	position: absolute;
+	left: 172px;
+	top: 900px;
+	width: 1000px;
+	height: 170px;
+}
+
+.runner-top-row {
+	position: absolute;
+	margin-top: 5px;
+	top: 0;
+	width: 1000px;
+	height: 80px;
+}
+
+.runner-bottom-row {
+	position: absolute;
+	bottom: 0;
+	width: 1000px;
+	height: 85px;
+}
+
+.runner-top-row > .runner-game {
+	display: inline-block;
+	min-width: 	28px;
+	max-height: 80px;
+	margin-left: 10px;
+}
+
+.runner-game > .game-img {
+	display: inline-block;
+	min-width: 	28px;
+	max-height: 80px;
+}
+
+.runner-top-row > .runner-name {
+	display: inline-block;
+	max-width: 800px;
+	height: 75px;
+	margin-left: 10px;
+	font-size: 55pt;
+	text-align: left;
+	vertical-align: top;
+}
+
+.runner-top-row > .runner-flag {
+	display: inline-block;
+	max-height: 40px;
+	margin-left: 10px;
+	margin-top: 30px;
+	vertical-align: top;
+}
+
+.runner-flag > .flag-img {
+	display: inline-block;
+	max-height: 40px;
+}
+
+.runner-bottom-row > .pronouns {
+	text-align: left;
+	display: inline-block;
+	max-width: 300px;
+	height: 55px;
+	margin-left: 10px;
+	margin-top: 15px;
+	vertical-align: bottom;
+	font-size: 35pt;
+}
