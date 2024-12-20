@@ -45,6 +45,11 @@
         "height": 1080
       },
       {
+        "file": "Break.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
         "file": "Standings.html",
         "width": 1920,
         "height": 1080
@@ -67,7 +72,7 @@
       {
         "file": "TechIssues.html",
         "width": 1920,
-        "height": 99
+        "height": 1080
       }
     ]
   },
